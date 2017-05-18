@@ -1,6 +1,6 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.0.0.1</latestVersion>
-    <url></url>
+    <latestVersion>1.0.0.0</latestVersion>
+    <url>https://github.com/caparolua/caparolua/releases/download/1.0.0.0/app-release.apk</url>
   </update>
 </AppUpdater>
